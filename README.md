@@ -11,7 +11,8 @@ Description
 * Added music and sound effects
 * Made multiple levels
 * Added respawn
-* Added a score 
+* Added a score
+* Made a start and end screen
 
 ## References
 
